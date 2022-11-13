@@ -3,10 +3,33 @@
     <title>隔壁萝卜的网页</title>
     <link href="https://a-super-carrot.github.io/Website/feed.xml" rel="self" />
     <link href="https://a-super-carrot.github.io/Website" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2022-11-14T02:27:08+08:00</updated>
     <author>
         <name>隔壁萝卜</name>
     </author>
     <id>https://a-super-carrot.github.io/Website</id>
 
+    <entry>
+        <title>当我第一次遇见Kali-Linux</title>
+        <author>
+            <name>隔壁萝卜</name>
+        </author>
+        <link href="https://a-super-carrot.github.io/Website/dang-wo-di-yi-ci-yu-jian-kali-linux.html"/>
+        <id>https://a-super-carrot.github.io/Website/dang-wo-di-yi-ci-yu-jian-kali-linux.html</id>
+
+        <updated>2022-11-14T02:27:08+08:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>我明明可以用Windows，但却用了半年Ubuntu，原因</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>我明明可以用Windows，但却用了半年Ubuntu，原因</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
