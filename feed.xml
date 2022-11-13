@@ -3,32 +3,37 @@
     <title>隔壁萝卜的网页</title>
     <link href="https://a-super-carrot.github.io/Website/feed.xml" rel="self" />
     <link href="https://a-super-carrot.github.io/Website" />
-    <updated>2022-11-14T02:31:24+08:00</updated>
+    <updated>2022-11-14T03:54:25+08:00</updated>
     <author>
         <name>隔壁萝卜</name>
     </author>
     <id>https://a-super-carrot.github.io/Website</id>
 
     <entry>
-        <title>当我第一次遇见Kali-Linux</title>
+        <title>The quieter you become,the more you are able to hear.</title>
         <author>
             <name>隔壁萝卜</name>
         </author>
         <link href="https://a-super-carrot.github.io/Website/dang-wo-di-yi-ci-yu-jian-kali-linux.html"/>
         <id>https://a-super-carrot.github.io/Website/dang-wo-di-yi-ci-yu-jian-kali-linux.html</id>
 
-        <updated>2022-11-14T02:31:24+08:00</updated>
+        <updated>2022-11-14T03:54:25+08:00</updated>
             <summary>
                 <![CDATA[
-                    <p>我明明可以用Windows，但却用了半年Ubuntu，原因可想而知：</p>
-
+                    这句话出自Kali-Linux，这是一个用于网络安全的系统，里面有许多的网络渗透所需的软件，这句话在渗透人员眼里，意思是耐心等待，就有可能抓取漏洞，利用漏洞成功渗透，在我眼里，一个安静的人，更容易发现机会。Kali-linux如同老友，对我有非凡意义。 “像茅草屋的Linux，🐶都不用！”这是我第一次用Linux的感想。后来被迫用了半年，原因很简单：我偶然在网上发现黑客系统排行榜，好奇点进去，第一个就是Kali-Linux，但帖子上没放图，我以为是一个很高级，界面美观，功能齐全的系统，三两下找到kali的官网。刚好有一个3G的u盘，我选择了网络安装的镜像200mb，写完盘就重启了，磕磕碰碰花了俩小时安装。那时安装选的是英文的，我浑然不知选择安装位置时选的是全盘安装，就这样，我的Windows没了。安装完进系统就是这个样子 kali-linux 2016.3 相比Windows10，明显不尽人意，对于刚用Linux的我，这才是噩梦的开始，我下意识的不是去尝试那些带有攻击性的命令行工具，而是去网上找QQ，要知道QQ linux版最早是2019年出来的，我糊涂地下了一个.exe的QQ，却发现跑不起来。 Kali-Linux 2022.1 美观了不少，用的心情也不一样了，有了它，如鱼得水。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>我明明可以用Windows，但却用了半年Ubuntu，原因可想而知：</p>
-
-<p>是懒！</p>
+                <p>这句话出自Kali-Linux，这是一个用于网络安全的系统，里面有许多的网络渗透所需的软件，这句话在渗透人员眼里，意思是耐心等待，就有可能抓取漏洞，利用漏洞成功渗透，在我眼里，一个安静的人，更容易发现机会。Kali-linux如同老友，对我有非凡意义。</p>
+<figure class="post__image"><img loading="lazy"  src="https://a-super-carrot.github.io/Website/media/posts/1/1578574561_kali-linux_story.jpg" alt="" width="760" height="428" sizes="100vw" srcset="https://a-super-carrot.github.io/Website/media/posts/1/responsive/1578574561_kali-linux_story-xs.jpg 300w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/1578574561_kali-linux_story-sm.jpg 480w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/1578574561_kali-linux_story-md.jpg 768w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/1578574561_kali-linux_story-lg.jpg 1024w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/1578574561_kali-linux_story-xl.jpg 1360w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/1578574561_kali-linux_story-2xl.jpg 1600w"></figure>
+<p>“像茅草屋的Linux，🐶都不用！”这是我第一次用Linux的感想。后来被迫用了半年，原因很简单：我偶然在网上发现黑客系统排行榜，好奇点进去，第一个就是Kali-Linux，但帖子上没放图，我以为是一个很高级，界面美观，功能齐全的系统，三两下找到<a href="https://www.kali.org" target="_blank" rel="noopener noreferrer">kali的官网</a>。刚好有一个3G的u盘，我选择了网络安装的镜像200mb，写完盘就重启了，磕磕碰碰花了俩小时安装。那时安装选的是英文的，我浑然不知选择安装位置时选的是全盘安装，就这样，我的Windows没了。安装完进系统就是这个样子<figure class="post__image post__image--center"><img loading="lazy"  src="https://a-super-carrot.github.io/Website/media/posts/1/gnome.png" alt="" width="818" height="614" sizes="100vw" srcset="https://a-super-carrot.github.io/Website/media/posts/1/responsive/gnome-xs.png 300w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/gnome-sm.png 480w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/gnome-md.png 768w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/gnome-lg.png 1024w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/gnome-xl.png 1360w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/gnome-2xl.png 1600w"></figure>
+<p class="align-center">kali-linux 2016.3</p>
+<p>相比Windows10，明显不尽人意，对于刚用Linux的我，这才是噩梦的开始，我下意识的不是去尝试那些带有攻击性的命令行工具，而是去网上找QQ，要知道QQ linux版最早是2019年出来的，我糊涂地下了一个.exe的QQ，却发现跑不起来。</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://a-super-carrot.github.io/Website/media/posts/1/v2-5c2165e4c087c722785c483a6303d51c_1440w.jpg" alt="" width="1000" height="500" sizes="100vw" srcset="https://a-super-carrot.github.io/Website/media/posts/1/responsive/v2-5c2165e4c087c722785c483a6303d51c_1440w-xs.jpg 300w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/v2-5c2165e4c087c722785c483a6303d51c_1440w-sm.jpg 480w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/v2-5c2165e4c087c722785c483a6303d51c_1440w-md.jpg 768w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/v2-5c2165e4c087c722785c483a6303d51c_1440w-lg.jpg 1024w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/v2-5c2165e4c087c722785c483a6303d51c_1440w-xl.jpg 1360w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/v2-5c2165e4c087c722785c483a6303d51c_1440w-2xl.jpg 1600w"></figure>这时我开始意识到问题的严重性，由于已经过了两个小时，我开始对kali-linux排斥，更别说去学习渗透工具。我重启电脑，准备进Windows，可是哪有Windows啊！就这样，我被迫用了半年kali-linux。有人会说“你为什么不装回Windows？”，奈何u盘太小，win7的镜像还要4个G呢，何况Windows10。“那为啥不买一个大大的U盘？”，奈何没有经济独立，胆小。这也治好了我爱用电脑打游戏的坏毛病。于是我恭敬不如从命，学习Linux。最基础的获取root权限<code>sudo -i</code> 我怎么也获取不到，因为我那时根本不知道输入密码是不会显示的，我一直以为密码输不上去。再后来过了几个星期，我意识到要更新系统了<code>sudo apt update</code> 输完跑了几行代码，我以为更新完了，其实那时列举需要更新的软件。半年后，我不仅熟练得掌握系统命令，还掌握了破译Wi-Fi密码的绝活，用的是"aircrack-ng"。同时也有了128G的U盘，装回了Windows10。后来又用它顺利安装了<a href="https://baike.baidu.com/item/黑苹果/5220943" target="_blank" rel="noopener noreferrer">黑苹果</a>，一直用到现在。今年头我重操旧业，分了个区，装回了kali- Linux。</p>
+<figure class="post__image"><img loading="lazy"  src="https://a-super-carrot.github.io/Website/media/posts/1/desktop-wallpaper-2.png" alt="" width="1360" height="768" sizes="100vw" srcset="https://a-super-carrot.github.io/Website/media/posts/1/responsive/desktop-wallpaper-2-xs.png 300w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/desktop-wallpaper-2-sm.png 480w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/desktop-wallpaper-2-md.png 768w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/desktop-wallpaper-2-lg.png 1024w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/desktop-wallpaper-2-xl.png 1360w ,https://a-super-carrot.github.io/Website/media/posts/1/responsive/desktop-wallpaper-2-2xl.png 1600w"></figure>
+<p class="align-center">Kali-Linux 2022.1</p>
+<p>美观了不少，用的心情也不一样了，有了它，如鱼得水。</p>
             ]]>
         </content>
     </entry>
